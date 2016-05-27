@@ -9,6 +9,6 @@
 </head>
 <body>
 Results of personality Insights:<br/>
-${piResult}
+${profile}
 </body>
 </html>
